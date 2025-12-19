@@ -1,4 +1,11 @@
 # 🤖 Robotica-Project_Adruino
+### 📍 Navigation
+[⬇️ Go to Photo Diary](#-18122025)
+* [Project Description](#project-description)
+* [Components Used](#components-used)
+* [How It Works](#how-it-works)
+* [Development Diary](#robotica-project_adruino-development-diary)
+---
 
 ## Project Description
 This project implements an interactive function for an Arduino-based educational robot kit.
@@ -30,5 +37,8 @@ Today I worked on creating the repository.
 3. Added photos of the robot.
 4. ![20251212_115002](https://github.com/user-attachments/assets/0c9b6843-64de-44f5-9935-13c3aa5c9d0a)
 5. ![20251212_120225](https://github.com/user-attachments/assets/dd53963d-5aa4-4836-95fa-5c15c22c0080)
+6. ---
+[⬆️ Back to Top](#-robotica-project_adruino)---
+
 
    
