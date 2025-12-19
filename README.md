@@ -1,6 +1,6 @@
 # 🤖 Robotica-Project_Adruino
 ### 📍 Navigation
-[⬇️ Go to Photo Diary](#-18122025)
+[⬇️ Go to Photo Diary](#robotica-project_adruino-development-diary)
 * [Project Description](#project-description)
 * [Components Used](#components-used)
 * [How It Works](#how-it-works)
