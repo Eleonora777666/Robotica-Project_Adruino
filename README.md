@@ -21,3 +21,14 @@ The Arduino sketch uses a counter to track the number of presses on the yellow b
 1.  Upload the sketch file (`.ino`) to the board using the Arduino IDE.
 2.  Ensure the yellow button and the piezo buzzer are connected according to the pins specified in the code.
 3.  Press the yellow button to cycle through the different sounds.
+4.  # Robotica-Project_Adruino Development Diary
+
+## 18.12.2025
+Today I worked on creating the repository.
+1. Created a README file with a description. 
+2. Uploaded the Arduino code.
+3. Added photos of the robot.
+4. ![20251212_115002](https://github.com/user-attachments/assets/0c9b6843-64de-44f5-9935-13c3aa5c9d0a)
+5. ![20251212_120225](https://github.com/user-attachments/assets/dd53963d-5aa4-4836-95fa-5c15c22c0080)
+
+   
