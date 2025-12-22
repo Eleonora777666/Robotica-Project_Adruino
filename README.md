@@ -10,6 +10,7 @@
 ## Project Description
 This project implements an interactive function for an Arduino-based educational robot kit.
 The main objective is to play **different sounds** (melodies or tones) upon each press of the **yellow button** mounted on the main control board.
+[Wokwi Interactive Simulation](https://wokwi.com/projects/450766589043170305)
 
 ## Components Used
 * Robot Control Board (Arduino-compatible).
@@ -23,6 +24,7 @@ The Arduino sketch uses a counter to track the number of presses on the yellow b
 2.  **Second Press:** Plays a long, high-pitched tone.
 3.  **Third Press:** Plays a short melody.
 4.  **Fourth Press:** The counter resets, and the first tone is played again.
+5.  5. [Click here to run the Simulation](https://wokwi.com/projects/450766589043170305)
 
 ## Setup and Run
 1.  Upload the sketch file (`.ino`) to the board using the Arduino IDE.
